@@ -66,7 +66,7 @@ $tipologie=array("CENTRO TERRITORIALE PERMANENTE",
     $last_provincia="";
     $last_regione="";
     # se non funziona va cambiato in 'scuole_italiane'
-    $rows = scraperwiki::getData("scuole_italiane_p4",1,0);
+    $rows = scraperwiki::getData("scuole_italiane",1,0);
     if (isset($rows)) {
         $last_record = $rows[0];
         #print_r($last_record);
