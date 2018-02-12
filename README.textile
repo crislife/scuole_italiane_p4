@@ -1,0 +1,5 @@
+fa lo scraping di tutte le scuole, tuttavia va controllato se 
+siblocca e fatto ripartire.
+
+Le info vengono aggiunte nel dataset, non c'è pericolo di doppioni perhce 
+viene fatto il controllo suell chiavi uniche
